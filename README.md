@@ -146,7 +146,7 @@ Cada experimento tiene su propia carpeta en este repositorio. Dentro de cada car
 
 ## Experimento 1
 
-Instrucciones: [experimento1/INSTRUCCIONES.md](experimento1/INSTRUCCIONES-EXPERIMENTO1.md)
+Instrucciones: [experimento1/INSTRUCCIONES.md](experimento1/INSTRUCCIONES_EXPERIMENTO1.md)
 
 ## Experimento 2
 
