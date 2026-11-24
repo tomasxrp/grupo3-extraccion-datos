@@ -168,7 +168,7 @@ Para salir de la consola: `exit`.
 
 ## 7. Gráfico de los resultados
 
-
+<img width="1024" height="572" alt="636c9cd9-fd4f-422f-91c9-8f73c57d149d" src="https://github.com/user-attachments/assets/fb556609-8baa-47f9-b782-02ef3ff09ec6" />
 ---
 
 ## 8. Conclusión
